@@ -1,158 +1,59 @@
 {
-  "books": [
+  "anime": [
     {
       "id": 1,
-      "author": "Chinua Achebe",
-      "country": "Nigeria",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
-      "pages": 209,
-      "title": "Things Fall Apart",
-      "year": 1958,
-      "likes": 0
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "image": "https://cdn.wallpapersafari.com/15/96/7E1Kyn.jpg",
+      "likes": 0,
+      "episodes": 64,
+      "description": "The Elric Brothers embark upon a journey to restore their bodies to their original state but they soon find out that trouble is lurking just around the corner. -Leon",
+      "image2": 1,
+      "video": 1,
+      "rating": []
     },
     {
       "id": 2,
-      "author": "Hans Christian Andersen",
-      "country": "Denmark",
-      "language": "Danish",
-      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
-      "pages": 784,
-      "title": "Fairy tales",
-      "year": 1836,
-      "likes": 0
+      "name": "Naruto",
+      "image": "https://m.media-amazon.com/images/I/81dwTCF6+XL._AC_SY879_.jpg",
+      "likes": 0,
+      "episodes": 720,
+      "description": "Naruto Uzumaki develops from a troubleseeking child to a hero depended on by all in his village. Believe it.",
+      "image2": 1,
+      "video": 1,
+      "rating": []
     },
     {
       "id": 3,
-      "author": "Dante Alighieri",
-      "country": "Italy",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
-      "pages": 928,
-      "title": "The Divine Comedy",
-      "year": 1315,
-      "likes": 0
+      "name": "DragonBall Z",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/446a20cc-3d9c-4cdf-8845-cee8c49b5076/de6t0co-dd2a4334-2396-49bc-8fb1-4679e22d670d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0NmEyMGNjLTNkOWMtNGNkZi04ODQ1LWNlZThjNDliNTA3NlwvZGU2dDBjby1kZDJhNDMzNC0yMzk2LTQ5YmMtOGZiMS00Njc5ZTIyZDY3MGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R_bLMbhMDV0aRxmGkZqWDcUZv-L4Dh5k_sQlxLbHOLo",
+      "likes": 0,
+      "episodes": 291,
+      "description": "Will The Z Warriors fight off galactic threats hellbent on using the dragon balls for their own evil schemes? Find out next time on DragonBall Z dunundundundun.",
+      "image2": 1,
+      "video": 1,
+      "rating": []
     },
     {
       "id": 4,
-      "author": "Jane Austen",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
-      "pages": 226,
-      "title": "Pride and Prejudice",
-      "year": 1813,
-      "likes": 0
+      "name": "Death Note",
+      "image": "https://wallpaperaccess.com/full/56218.png",
+      "likes": 0,
+      "episodes": 37,
+      "description": "A notebook of death found by highschool valedictorian Light Yagami. Good intentions turn bad -Mo",
+      "image2": 1,
+      "video": 1,
+      "rating": []
     },
     {
       "id": 5,
-      "author": "Samuel Beckett",
-      "country": "Republic of Ireland",
-      "language": "French, English",
-      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
-      "pages": 256,
-      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-      "year": 1952,
-      "likes": 0
-    },
-    {
-      "id": 6,
-      "author": "Giovanni Boccaccio",
-      "country": "Italy",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/The_Decameron",
-      "pages": 1024,
-      "title": "The Decameron",
-      "year": 1351,
-      "likes": 0
-    },
-    {
-      "id": 7,
-      "author": "Jorge Luis Borges",
-      "country": "Argentina",
-      "language": "Spanish",
-      "link": "https://en.wikipedia.org/wiki/Ficciones",
-      "pages": 224,
-      "title": "Ficciones",
-      "year": 1965,
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "author": "Albert Camus",
-      "country": "Algeria, French Empire",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)",
-      "pages": 185,
-      "title": "The Stranger",
-      "year": 1942,
-      "likes": 0
-    },
-    {
-      "id": 9,
-      "author": "Miguel de Cervantes",
-      "country": "Spain",
-      "language": "Spanish",
-      "link": "https://en.wikipedia.org/wiki/Don_Quixote",
-      "pages": 1056,
-      "title": "Don Quijote De La Mancha",
-      "year": 1610,
-      "likes": 0
-    },
-    {
-      "id": 10,
-      "author": "Geoffrey Chaucer",
-      "country": "England",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
-      "pages": 544,
-      "title": "The Canterbury Tales",
-      "year": 1450,
-      "likes": 0
-    },
-    {
-      "id": 11,
-      "author": "Anton Chekhov",
-      "country": "Russia",
-      "language": "Russian",
-      "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov",
-      "pages": 194,
-      "title": "Stories",
-      "year": 1886,
-      "likes": 0
-    },
-    {
-      "id": 12,
-      "author": "Joseph Conrad",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Nostromo",
-      "pages": 320,
-      "title": "Nostromo",
-      "year": 1904,
-      "likes": 0
-    },
-    {
-      "id": 13,
-      "author": "Charles Dickens",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Great_Expectations",
-      "pages": 194,
-      "title": "Great Expectations",
-      "year": 1861,
-      "likes": 0
-    },
-    {
-      "id": 14,
-      "author": "Denis Diderot",
-      "country": "France",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist",
-      "pages": 596,
-      "title": "Jacques the Fatalist",
-      "year": 1796,
-      "likes": 0
+      "name": "Bleach",
+      "image": "https://cdn.wallpapersafari.com/70/85/ZBWcXM.jpg",
+      "likes": 0,
+      "episodes": 366,
+      "description": "Makes no sense whatsoever but its kinda cool. It is only here because we didn't know what else to include.",
+      "image2": 1,
+      "video": 1,
+      "rating": []
     }
   ]
 }
