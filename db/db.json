@@ -4,45 +4,85 @@
       "id": 1,
       "name": "Fullmetal Alchemist: Brotherhood",
       "image": "https://cdn.wallpapersafari.com/15/96/7E1Kyn.jpg",
-      "likes": 0,
+      "likes": 4,
       "episodes": 64,
       "description": "The Elric Brothers embark upon a journey to restore their bodies to their original state but they soon find out that trouble is lurking just around the corner. -Leon",
       "image2": 1,
       "video": 1,
-      "rating": []
+      "comment": [
+        "full metal",
+        "naruto",
+        "dbz",
+        "deathnote",
+        "bleach"
+      ],
+      "rating": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "id": 2,
       "name": "Naruto",
       "image": "https://m.media-amazon.com/images/I/81dwTCF6+XL._AC_SY879_.jpg",
-      "likes": 0,
+      "likes": 52,
       "episodes": 720,
       "description": "Naruto Uzumaki develops from a troubleseeking child to a hero depended on by all in his village. Believe it.",
       "image2": 1,
       "video": 1,
-      "rating": []
+      "comment": [
+        "naruto",
+        "dbz",
+        "deathnote",
+        "bleach"
+      ],
+      "rating": [
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "id": 3,
       "name": "DragonBall Z",
       "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/446a20cc-3d9c-4cdf-8845-cee8c49b5076/de6t0co-dd2a4334-2396-49bc-8fb1-4679e22d670d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0NmEyMGNjLTNkOWMtNGNkZi04ODQ1LWNlZThjNDliNTA3NlwvZGU2dDBjby1kZDJhNDMzNC0yMzk2LTQ5YmMtOGZiMS00Njc5ZTIyZDY3MGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R_bLMbhMDV0aRxmGkZqWDcUZv-L4Dh5k_sQlxLbHOLo",
-      "likes": 0,
+      "likes": 6,
       "episodes": 291,
       "description": "Will The Z Warriors fight off galactic threats hellbent on using the dragon balls for their own evil schemes? Find out next time on DragonBall Z dunundundundun.",
-      "image2": 1,
+      "image2": "https://wallpaperaccess.com/full/2501389.png",
       "video": 1,
-      "rating": []
+      "comment": [
+        "dbz",
+        "deathnote",
+        "bleach"
+      ],
+      "rating": [
+        3,
+        4,
+        5
+      ]
     },
     {
       "id": 4,
       "name": "Death Note",
       "image": "https://wallpaperaccess.com/full/56218.png",
-      "likes": 0,
+      "likes": 2,
       "episodes": 37,
       "description": "A notebook of death found by highschool valedictorian Light Yagami. Good intentions turn bad -Mo",
-      "image2": 1,
+      "image2": "https://www.wallpapertip.com/wmimgs/99-998316_anime-wallpaper-death-note.jpg",
       "video": 1,
-      "rating": []
+      "comment": [
+        "deathnote",
+        "bleach"
+      ],
+      "rating": [
+        4,
+        5
+      ]
     },
     {
       "id": 5,
@@ -53,7 +93,12 @@
       "description": "Makes no sense whatsoever but its kinda cool. It is only here because we didn't know what else to include.",
       "image2": 1,
       "video": 1,
-      "rating": []
+      "comment": [
+        "bleach"
+      ],
+      "rating": [
+        5
+      ]
     }
   ]
 }
