@@ -4,24 +4,16 @@
       "id": 1,
       "name": "Fullmetal Alchemist: Brotherhood",
       "image": "https://cdn.wallpapersafari.com/15/96/7E1Kyn.jpg",
-      "likes": 4,
+      "likes": 5,
       "episodes": 64,
       "description": "The Elric Brothers embark upon a journey to restore their bodies to their original state but they soon find out that trouble is lurking just around the corner. -Leon",
-      "image2": 1,
-      "video": 1,
-      "comment": [
-        "full metal",
-        "naruto",
-        "dbz",
-        "deathnote",
-        "bleach"
-      ],
+      "image2": "https://images2.alphacoders.com/111/thumb-1920-111290.jpg",
+      "video": "<iframe width=\"823\" height=\"463\" src=\"https://www.youtube.com/embed/MzdRXA1uiNc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "comment": [],
       "rating": [
-        1,
-        2,
-        3,
-        4,
-        5
+        8,
+        9,
+        9
       ]
     },
     {
@@ -31,19 +23,15 @@
       "likes": 52,
       "episodes": 720,
       "description": "Naruto Uzumaki develops from a troubleseeking child to a hero depended on by all in his village. Believe it.",
-      "image2": 1,
-      "video": 1,
+      "image2": "https://wallpaperaccess.com/full/736004.jpg",
+      "video": "<iframe width=\"823\" height=\"463\" src=\"https://www.youtube.com/embed/-G9BqkgZXRA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "comment": [
-        "naruto",
-        "dbz",
-        "deathnote",
-        "bleach"
+        "wawawa"
       ],
       "rating": [
-        2,
-        3,
-        4,
-        5
+        8,
+        8,
+        8
       ]
     },
     {
@@ -54,16 +42,12 @@
       "episodes": 291,
       "description": "Will The Z Warriors fight off galactic threats hellbent on using the dragon balls for their own evil schemes? Find out next time on DragonBall Z dunundundundun.",
       "image2": "https://wallpaperaccess.com/full/2501389.png",
-      "video": 1,
-      "comment": [
-        "dbz",
-        "deathnote",
-        "bleach"
-      ],
+      "video": "<iframe width=\"823\" height=\"463\" src=\"https://www.youtube.com/embed/E0vWx9VjGe0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "comment": [],
       "rating": [
-        3,
-        4,
-        5
+        8,
+        7,
+        8
       ]
     },
     {
@@ -74,14 +58,12 @@
       "episodes": 37,
       "description": "A notebook of death found by highschool valedictorian Light Yagami. Good intentions turn bad -Mo",
       "image2": "https://www.wallpapertip.com/wmimgs/99-998316_anime-wallpaper-death-note.jpg",
-      "video": 1,
-      "comment": [
-        "deathnote",
-        "bleach"
-      ],
+      "video": "<iframe width=\"823\" height=\"463\" src=\"https://www.youtube.com/embed/2GA3fCQu1dA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "comment": [],
       "rating": [
-        4,
-        5
+        8,
+        8,
+        9
       ]
     },
     {
@@ -91,13 +73,13 @@
       "likes": 0,
       "episodes": 366,
       "description": "Makes no sense whatsoever but its kinda cool. It is only here because we didn't know what else to include.",
-      "image2": 1,
-      "video": 1,
-      "comment": [
-        "bleach"
-      ],
+      "image2": "https://files.wallpaperpass.com/2019/10/bleach%20wallpaper%2064%20-%201920x1080.jpg",
+      "video": "<iframe width=\"823\" height=\"463\" src=\"https://www.youtube.com/embed/KB7Tm6hTolM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "comment": [],
       "rating": [
-        5
+        7,
+        6,
+        7
       ]
     }
   ]
